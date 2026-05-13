@@ -56,5 +56,5 @@ This project only includes the frontend UI design, no backend.
 ---
 
 
-Help support this open-source by starring it, for other developers to use it to.
+Help support this open-source by starring it, for other developers to use it too.
 
