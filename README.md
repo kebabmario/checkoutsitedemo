@@ -14,6 +14,10 @@ Made for cart checkout pages.
 
 ---
 
+## Preview
+
+Preview for this is located at https://demo.kebabmario.dev/checkout
+
 ## Installation
 
 ```bash
