@@ -10,6 +10,7 @@ Made for cart checkout pages.
 
 * Built-in payment method selector
 * Built-in discount code redeeemer
+* Built-in payment receipt order confirmation
 * Open source
 
 ---
